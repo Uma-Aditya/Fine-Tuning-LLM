@@ -1,0 +1,5285 @@
+[
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1316",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1316,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1379",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1379,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $353",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 353,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1024",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1024,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $370",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 370,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1236",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1236,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1328",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1328,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $403",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 403,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $952",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 952,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $427",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 427,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1035",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1035,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1227",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1227,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1245",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1245,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1308",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1308,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $449",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 449,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1230",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1230,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1317",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1317,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $413",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 413,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1353",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1353,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $395",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 395,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $419",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 419,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1167",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1167,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $424",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 424,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2028",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2028,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1992",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1992,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $389",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 389,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1034",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1034,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2039",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2039,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $411",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 411,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1039",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1039,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1160",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1160,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1037",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1037,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1238",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1238,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2026",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2026,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2008",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2008,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $986",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 986,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $381",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 381,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1372",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1372,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1026",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1026,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $961",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 961,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $980",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 980,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1039",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1039,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1247",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1247,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $1969",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1969,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2037",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2037,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $428",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 428,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1039",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1039,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1018",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1018,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1230",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1230,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1301",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1301,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1349",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1349,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1353",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1353,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1000",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1000,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1367",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1367,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1373",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1373,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1962",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1962,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1003",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1003,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $409",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 409,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1325",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1325,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $986",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 986,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $985",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 985,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $996",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 996,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $421",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 421,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1380",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1380,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1030",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1030,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1236",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1236,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2016",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2016,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $964",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 964,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2019",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2019,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1004",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1004,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2048",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2048,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $966",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 966,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1238",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1238,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $388",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 388,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $410",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 410,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1381",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1381,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1954",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1954,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1048",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1048,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1355",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1355,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1336",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1336,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $416",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 416,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $429",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 429,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1019",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1019,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $373",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 373,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1232",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1232,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2011",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2011,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2049",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2049,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1385",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1385,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $951",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 951,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $950",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 950,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2011",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2011,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1389",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1389,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1366",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1366,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $430",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 430,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2005",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2005,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1171",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1171,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1313",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1313,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1310",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1310,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1357",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1357,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1231",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1231,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1192",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1192,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1013",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1013,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $998",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 998,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $996",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 996,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $449",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 449,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $400",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 400,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $1989",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1989,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2023",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2023,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1300",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1300,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $976",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 976,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1331",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1331,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $1960",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1960,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1150",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1150,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $999",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 999,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1976",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1976,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1010",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1010,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2023",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2023,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $975",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 975,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1358",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1358,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1319",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1319,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1000",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1000,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1048",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1048,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1297",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1297,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1209",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1209,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $389",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 389,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1953",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1953,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2047",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2047,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1026",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1026,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1383",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1383,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2014",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2014,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2004",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2004,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1205",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1205,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1347",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1347,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $398",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 398,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $997",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 997,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $369",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 369,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $1977",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1977,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1385",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1385,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1302",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1302,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1326",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1326,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $359",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 359,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $438",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 438,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $447",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 447,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1232",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1232,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1248",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1248,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1387",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1387,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1188",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1188,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1045",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1045,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $996",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 996,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1353",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1353,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $372",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 372,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1192",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1192,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1338",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1338,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $352",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 352,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1044",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1044,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $989",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 989,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1242",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1242,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1189",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1189,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1241",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1241,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1179",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1179,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1235",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1235,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1315",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1315,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1033",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1033,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $438",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 438,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $385",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 385,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $449",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 449,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $962",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 962,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1351",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1351,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1951",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1951,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $442",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 442,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1314",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1314,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $374",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 374,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1176",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1176,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2035",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2035,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1342",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1342,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $426",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 426,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1325",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1325,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2040",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2040,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1373",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1373,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1234",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1234,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1321",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1321,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2014",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2014,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2001",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2001,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1205",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1205,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1360",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1360,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1205",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1205,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $396",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 396,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $984",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 984,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1349",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1349,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1179",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1179,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1333",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1333,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1153",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1153,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2017",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2017,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1000",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1000,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $351",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 351,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1021",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1021,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $959",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 959,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1306",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1306,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $414",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 414,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $985",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 985,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1160",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1160,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $416",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 416,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1378",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1378,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1377",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1377,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1303",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1303,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1197",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1197,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $977",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 977,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1030",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1030,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1320",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1320,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $1998",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1998,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1018",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1018,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $443",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 443,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $433",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 433,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1180",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1180,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1244",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1244,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $438",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 438,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1327",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1327,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1381",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1381,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $955",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 955,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1366",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1366,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1331",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1331,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $362",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 362,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $354",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 354,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1373",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1373,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1350",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1350,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1042",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1042,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1234",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1234,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $365",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 365,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1012",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1012,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1246",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1246,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1393",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1393,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1322",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1322,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1387",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1387,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $385",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 385,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1175",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1175,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $415",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 415,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1240",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1240,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $369",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 369,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $984",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 984,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $357",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 357,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $996",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 996,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1951",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1951,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1964",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1964,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1235",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1235,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1995",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1995,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1181",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1181,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1327",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1327,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2028",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2028,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $362",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 362,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1044",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1044,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1374",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1374,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1297",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1297,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $354",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 354,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $983",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 983,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2030",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2030,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2025",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2025,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1003",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1003,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1353",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1353,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1240",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1240,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2036",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2036,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $438",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 438,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $376",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 376,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2028",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2028,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1249",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1249,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1040",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1040,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1187",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1187,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1224",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1224,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1347",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1347,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $406",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 406,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1382",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1382,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2020",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2020,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1986",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1986,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2030",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2030,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2003",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2003,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1310",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1310,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1383",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1383,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $968",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 968,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1235",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1235,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1007",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1007,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $375",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 375,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1358",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1358,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1211",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1211,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $980",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 980,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1184",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1184,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1247",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1247,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1248",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1248,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1323",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1323,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1024",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1024,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $399",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 399,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $403",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 403,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $368",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 368,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2023",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2023,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1034",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1034,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1972",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1972,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1228",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1228,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1373",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1373,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1044",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1044,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1247",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1247,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $444",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 444,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1151",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1151,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $991",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 991,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $353",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 353,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2016",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2016,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2033",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2033,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $419",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 419,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $987",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 987,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2001",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2001,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1952",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1952,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $419",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 419,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1221",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1221,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $980",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 980,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1004",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1004,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2031",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2031,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1168",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1168,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1388",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1388,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1378",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1378,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $396",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 396,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1977",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1977,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1326",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1326,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $357",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 357,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1012",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1012,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1164",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1164,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $998",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 998,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $1988",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1988,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $999",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 999,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $359",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 359,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $959",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 959,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1047",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1047,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $355",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 355,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1177",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1177,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1234",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1234,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1371",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1371,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1961",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1961,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $363",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 363,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1309",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1309,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $984",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 984,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1969",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1969,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1197",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1197,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $395",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 395,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $977",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 977,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1004",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1004,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1357",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1357,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1016",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1016,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $1985",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1985,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $421",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 421,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1957",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1957,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1335",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1335,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1028",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1028,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1031",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1031,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1353",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1353,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1374",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1374,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1997",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1997,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $360",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 360,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $956",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 956,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1227",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1227,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2009",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2009,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $406",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 406,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1229",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1229,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1024",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1024,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1182",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1182,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $956",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 956,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $445",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 445,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $389",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 389,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $951",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 951,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1013",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1013,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1372",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1372,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2026",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2026,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1231",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1231,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $369",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 369,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2012",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2012,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1032",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1032,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1393",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1393,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1386",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1386,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1015",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1015,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1244",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1244,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2006",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2006,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $975",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 975,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1314",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1314,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $1954",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1954,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $949",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 949,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $969",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 969,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1368",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1368,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $1960",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1960,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $996",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 996,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2030",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2030,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1363",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1363,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1154",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1154,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1048",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1048,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $1977",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1977,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1359",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1359,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1322",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1322,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1211",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1211,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1213",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1213,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1214",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1214,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1150",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1150,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $1992",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1992,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1355",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1355,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1157",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1157,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1329",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1329,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $449",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 449,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $984",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 984,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1247",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1247,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1159",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1159,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1165",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1165,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $353",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 353,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1341",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1341,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $377",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 377,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1383",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1383,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1022",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1022,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $375",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 375,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1162",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1162,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1170",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1170,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1154",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1154,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1042",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1042,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1376",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1376,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1239",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1239,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $1990",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1990,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $422",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 422,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1002",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1002,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2037",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2037,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1044",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1044,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1020",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1020,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1188",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1188,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $369",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 369,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1337",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1337,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1048",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1048,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $359",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 359,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1384",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1384,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1025",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1025,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $445",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 445,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $405",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 405,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1150",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1150,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $965",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 965,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1389",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1389,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1203",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1203,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1224",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1224,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $360",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 360,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $446",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 446,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1233",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1233,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1017",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1017,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1027",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1027,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2018",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2018,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $449",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 449,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1997",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1997,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2041",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2041,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1004",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1004,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $448",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 448,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $969",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 969,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1003",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1003,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2019",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2019,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $446",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 446,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $382",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 382,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $992",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 992,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1384",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1384,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $1012",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1012,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1342",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1342,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1175",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1175,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $972",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 972,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $958",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 958,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $352",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 352,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $422",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 422,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1176",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1176,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1187",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1187,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $360",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 360,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $979",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 979,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1151",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1151,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1345",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1345,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1298",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1298,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1203",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1203,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1041",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1041,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 16GB, storage 512GB SSD $1162",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1162,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1154",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1154,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1356",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1356,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $352",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 352,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $420",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 420,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1216",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1216,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1368",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1368,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $981",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 981,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $376",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 376,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $1979",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1979,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $361",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 361,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1990",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1990,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Silver $426",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 426,
+            "specs": {
+                "color": "Silver"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1377",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1377,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1177",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1177,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $1030",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 1030,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 256GB, connectivity Wi-Fi+Cellular $1350",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1350,
+            "specs": {
+                "storage": "256GB",
+                "connectivity": "Wi-Fi+Cellular"
+            }
+        }
+    },
+    {
+        "input": "Sony WH-1000XM5 color Black $393",
+        "output": {
+            "product_name": "Sony WH-1000XM5",
+            "price": 393,
+            "specs": {
+                "color": "Black"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1972",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1972,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1301",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1301,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1152",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1152,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $2003",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2003,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 16GB, storage 512GB SSD $2008",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 2008,
+            "specs": {
+                "RAM": "16GB",
+                "storage": "512GB SSD"
+            }
+        }
+    },
+    {
+        "input": "MacBook Pro 14 RAM 32GB, storage 1TB SSD $1978",
+        "output": {
+            "product_name": "MacBook Pro 14",
+            "price": 1978,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 128GB $996",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 996,
+            "specs": {
+                "storage": "128GB"
+            }
+        }
+    },
+    {
+        "input": "Dell XPS 13 RAM 32GB, storage 1TB SSD $1165",
+        "output": {
+            "product_name": "Dell XPS 13",
+            "price": 1165,
+            "specs": {
+                "RAM": "32GB",
+                "storage": "1TB SSD"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1378",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1378,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1373",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1373,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    },
+    {
+        "input": "Samsung Galaxy S23 storage 256GB $951",
+        "output": {
+            "product_name": "Samsung Galaxy S23",
+            "price": 951,
+            "specs": {
+                "storage": "256GB"
+            }
+        }
+    },
+    {
+        "input": "iPad Air storage 64GB, connectivity Wi-Fi $1390",
+        "output": {
+            "product_name": "iPad Air",
+            "price": 1390,
+            "specs": {
+                "storage": "64GB",
+                "connectivity": "Wi-Fi"
+            }
+        }
+    }
+]
