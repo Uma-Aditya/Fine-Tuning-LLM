@@ -120,5 +120,5 @@ if gguf_files:
 
 ---
 
-**Author:** Your Name
-**Date:** YYYY-MM-DD
+**Author:** Harsha Charan
+**Date:** 03-08-2025
